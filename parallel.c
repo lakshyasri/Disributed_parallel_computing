@@ -1,3 +1,5 @@
+// csv file not uploaded the the generetor too, use any double set csv value with input file name for successful compilation @lakshyasri@outlook.com
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<pthread.h>
